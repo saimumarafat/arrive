@@ -3,7 +3,8 @@
 
 Arrive is a high-performance, premium iOS financial management application designed with a **Liquid Glass** aesthetic. It provides a seamless experience for tracking balances, managing multiple cards, monitoring investments, and gaining intelligent insights into your spending habits.
 
-![Arrive Banner](https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/4734259a-bad7-422f-981e-ce01e79184f2_1600w.jpg)
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-26 at 00 44 12" src="https://github.com/user-attachments/assets/06c89c5a-268b-4b80-b54a-d0775a5439a7" />
+
 
 ## ✨ Features
 
