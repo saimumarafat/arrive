@@ -3,7 +3,7 @@
 
 Arrive is a high-performance, premium iOS financial management application designed with a **Liquid Glass** aesthetic. It provides a seamless experience for tracking balances, managing multiple cards, monitoring investments, and gaining intelligent insights into your spending habits.
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-26 at 00 44 12" src="https://github.com/user-attachments/assets/06c89c5a-268b-4b80-b54a-d0775a5439a7" />
+<img width="120" height="262" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-26 at 00 44 12" src="https://github.com/user-attachments/assets/06c89c5a-268b-4b80-b54a-d0775a5439a7" />
 
 
 ## Features
@@ -15,10 +15,8 @@ Arrive is a high-performance, premium iOS financial management application desig
 - **Quick Actions**: Instant access to Send, Request, and Add funds.
 - **Floating Dock**: A custom-built, interactive navigation experience.
 
-## 📸 Screenshots
+## Screenshots
 
-| Hero & Landing | Dashboard | Insights |
-| :---: | :---: | :---: |
 | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-25 at 22 42 45" src="https://github.com/user-attachments/assets/89d9d25a-aa02-4e68-adbc-1126e9d9722a" />
  | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-25 at 22 43 13" src="https://github.com/user-attachments/assets/b3c0548f-071a-42be-8106-7eefd1da1de9" />
  | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-25 at 22 45 25" src="https://github.com/user-attachments/assets/85bcf4ba-23dc-4bd4-98ff-7c1b62ddee09" />
