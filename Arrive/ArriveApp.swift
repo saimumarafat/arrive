@@ -11,7 +11,7 @@ import SwiftUI
 struct ArriveApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ArriveView()
         }
     }
 }
